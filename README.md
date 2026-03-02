@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Sivasembian Muthuvelan
 
-### AI Engineer | Full-Stack Developer | ML Systems Architect
+### AI Engineer | Full-Stack Developer | ML Systems Architect | MLOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasembianm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sembitv666@gmail.com)
@@ -85,20 +85,6 @@ Retrieval-Augmented Generation system with vector database integration
 Full-stack monitoring system with anomaly detection
 - **Tech Stack**: Flask, React, Apache Kafka, SQL, AWS
 - **Impact**: 30% reduction in security breaches, 40% scalability improvement
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
-
-</div>
 
 ---
 
