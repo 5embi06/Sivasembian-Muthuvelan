@@ -4,7 +4,7 @@
 
 ### AI Engineer | Full-Stack Developer | ML Systems Architect | MLOps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasembianm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasembianm/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sembitv666@gmail.com)
 
 </div>
@@ -139,7 +139,7 @@ Full-stack monitoring system with anomaly detection
 
 I'm always open to collaborating on interesting ML/AI projects, discussing research ideas, or just chatting about technology!
 
-- 💼 **LinkedIn**: [linkedin.com/in/Sivasembian](https://linkedin.com/in/Sivasembian)
+- 💼 **LinkedIn**: [linkedin.com/in/Sivasembian](https://linkedin.com/in/sivasembianm)
 - 📧 **Email**: sembitv666@gmail.com
 - 📱 **Phone**: +1 240 909 8654
 - 🌐 **Location**: Washington DC, USA
